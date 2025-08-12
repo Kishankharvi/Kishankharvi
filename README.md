@@ -1,5 +1,9 @@
 # 💫 About Me:
-My self  im in learning phase i know react , node , unity , django , javascript , express , mongodb , mysql , springboot ,<br>
+I’m a passionate and curious developer currently in my learning phase, exploring and building projects across multiple domains. I love working with modern technologies like React, Node.js, Unity, Django, Spring Boot, and various databases like MongoDB and MySQL. My journey so far has been all about experimenting, solving real-world problems, and constantly upgrading my skills.
+
+I enjoy combining frontend creativity with backend logic, diving into full-stack development, and experimenting with game development in Unity. My goal is to keep learning, contribute to open-source, and work on projects that make a difference.
+
+💡 "Code, Learn, Break, Fix — Repeat",<br>
 
 
 ## 🌐 Socials:
